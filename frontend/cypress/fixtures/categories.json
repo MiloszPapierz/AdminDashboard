@@ -1,0 +1,17 @@
+{
+  "items": [
+    {
+      "categoryID": 1,
+      "categoryName": "Book"
+    },
+    {
+      "categoryID": 2,
+      "categoryName": "T-shirt"
+    },
+    {
+      "categoryID": 3,
+      "categoryName": "Shoes"
+    }
+  ],
+  "count": 3
+}
