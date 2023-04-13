@@ -24,7 +24,6 @@ AUTH_JWKS_URI={uw jwkr uri}
 AUTH_AUDIENCE={uw auth audience}
 AUTH_ISSUER='{uw auth issuer}'
 ```
-Bekijk dossier.md voor de nodige variabelen voor cloudinary. Daar zal je een account vinden met de stappen om alles die nodig is te vinden.
 Gebruik ```npm start``` om de server te starten.
 
 ## Testen
