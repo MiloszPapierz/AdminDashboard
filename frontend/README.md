@@ -1,9 +1,3 @@
-# Examenopdracht Front-end Web Development
-
-- Student: Milosz Papierz
-- Studentennummer: 202181659
-- E-mailadres: Milosz.Papierz@student.hogent.be
-
 ## Vereisten
 
 Ik verwacht dat volgende software reeds geïnstalleerd is:
